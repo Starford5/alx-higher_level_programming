@@ -1,5 +1,6 @@
 #!/usr/bin/python3
-
+# 6-square.py
+# Ogbonna Ikeckwu 
 """Define a class Square."""
 
 
